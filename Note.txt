@@ -1,0 +1,6 @@
+CONNESSIONE USB -ESP32S2
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/establish-serial-connection.html
+https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32s2/api-guides/usb-console.html
+
+STANDARD PIN USB
+https://www.arrow.com/en/research-and-events/articles/micro-connector-usb-pinout

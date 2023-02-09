@@ -1,0 +1,5 @@
+Temperature sensor: TMP1075NDRLT
+
+5V to 3.3V circuit:
+AMS1117CD-3.3V
+https://somanytech.com/5v-to-3-3v-converter-circuit-schematic-and-modules/
