@@ -4,3 +4,7 @@ https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32s2/api-guides/usb-conso
 
 STANDARD PIN USB
 https://www.arrow.com/en/research-and-events/articles/micro-connector-usb-pinout
+
+USB/Battery Switch:
+https://electronics.stackexchange.com/questions/409496/automatic-charging-and-power-switch-between-usb-and-lipo-battery
+(upper design)
