@@ -1,5 +1,10 @@
 Temperature sensor: TMP1075NDRLT
 
-5V to 3.3V circuit:
-AMS1117CD-3.3V
+5V to 3.3V circuit: AMS1117CD-3.3
 https://somanytech.com/5v-to-3-3v-converter-circuit-schematic-and-modules/
+
+USB Connector: 10118192-0002LF
+
+Buttons: TS10-63-26-BE-250-SMT-TR
+
+Controller: ESP32-S2-WROOM-I-N4
