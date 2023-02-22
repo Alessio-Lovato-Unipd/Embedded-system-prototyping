@@ -1,0 +1,3 @@
+[submodule "project_files/ESP32_code/Arduino-TMP1075"]
+	path = project_files/ESP32_code/External_libraries/Arduino-TMP1075
+	url = https://github.com/PatrickBaus/Arduino-TMP1075.git
